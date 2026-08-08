@@ -1,6 +1,6 @@
 # Hola, soy Fer Castro
 
-Soy estudiante de 8.vo semestre de **Ingeniería Electrónica en la UPB** y **Joven Investigador**. Me enfoco en aprender y aplicar soluciones tecnológicas integrales, desde el hardware hasta la nube.
+Soy estudiante de 9.no semestre de **Ingeniería Electrónica en la UPB** y **Joven Investigador**. Me enfoco en aprender y aplicar soluciones tecnológicas integrales, desde el hardware hasta la nube.
 
 ### 🛠️ Lo que estoy aprendiendo y aplicando:
 - **Sistemas Embebidos:** Desarrollo con **ESP32**, integración de sensores industriales y ambientales (RS485, I2C, SPI), y protocolos de comunicación.
